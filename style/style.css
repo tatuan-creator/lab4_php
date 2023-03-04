@@ -1,0 +1,40 @@
+.error {
+    color: #FF0000;
+}
+
+.container {
+  display: float;
+  justify-content: space-between;
+}
+
+.container .div {
+  width: 30%;
+  height: 100px;
+  float: left;
+}
+
+.center {
+  position: absolute;
+  border: 1px double;
+  border-radius: 10px;
+  padding: 10px 10px 10px 10px;
+  margin: auto;
+}
+
+.submit {
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 10px;
+    background: #99ff99;
+}
+
+.input {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.result {
+    position: absolute;
+    padding: 10px 10px 10px 10px;
+}
+
